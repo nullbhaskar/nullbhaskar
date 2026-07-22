@@ -62,11 +62,11 @@ I'm a Computer Science (BCA) student with a growing focus on mobile app developm
 
 ## 📌 Featured Project
 
-**E-commerce Mobile App**
+**E-commerce Mobile App(building)**
 A mobile shopping app built with React Native and Firebase — developed during my internship.
 **Stack:** React Native, Firebase
 
-> ✏️ *Add more projects here as you build/publish them.*
+> 
 
 ---
 
