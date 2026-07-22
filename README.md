@@ -2,7 +2,7 @@
 
 # Bhaskar Das
 
-### BCA Student | React Native Developer | Graphic & Visual Designer
+### BCA Student | React Native Developer(intern) | Graphic & Visual Designer
 
 Building mobile apps and creative visuals — currently interning as a React Native developer while pursuing my BCA in Computer Science.
 
