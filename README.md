@@ -1,120 +1,88 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a0a23&height=220&section=header&text=Bhaskar%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Web%20Developer%20%7C%20Visual%20Designer&descAlignY=55&descSize=18"/>
+# Bhaskar Das
 
-<a href="https://github.com/nullbhaskar">
-  <img src="https://readme-typing-svg.demolab.com/?lines=console.log('Hello,+World!');&font=Fira+Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22&pause=1000&duration=3000" />
-</a>
+### BCA Student | React Native Developer | Graphic & Visual Designer
 
-<img src="https://komarev.com/ghpvc/?username=nullbhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="nullbhaskar" />
-&nbsp;
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullbhaskar&theme=darkhub&no-frame=true&row=1&column=6" alt="nullbhaskar trophies" /></a>
+Building mobile apps and creative visuals — currently interning as a React Native developer while pursuing my BCA in Computer Science.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-das-101612320/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dasbhaskar_)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( )
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskardaspatna@gmail.com)
 
 </div>
 
-<br>
+---
 
-## `> whoami`
+## 👋 About Me
 
-```yaml
-name: Bhaskar Das
-role: Computer Science Student
-focus:
-  - Web Development
-  - Poster & Social Media Design
-currently_building: "E-commerce Platform 🛒"
-currently_learning: "Mobile Application Development 📱"
-reach_me_at: "bhaskardaspatna@gmail.com"
-fun_fact: "I write code by day and design posters by night 🎨"
-```
+I'm a Computer Science (BCA) student with a growing focus on mobile app development. Alongside coding, I also work as a graphic/visual designer — creating posters and social media content. Currently interning as a **React Native Developer**, building a mobile e-commerce application from the ground up.
 
-<br>
+---
 
-## `> stack --list`
+## 🚀 Current Work
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+| | |
+|---|---|
+| **Role** | React Native Developer Intern |
+| **Education** | BCA (Computer Science) |
+| **Current Project** | E-commerce mobile app (React Native + Firebase) |
+| **Currently Learning** | Mobile Application Development |
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-</p>
 
-**Frameworks & Runtime**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://reactnative.dev/img/header_logo.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+**Frontend & Mobile**
 
-**Databases & Backend**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Design Tools**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-</p>
+**Backend & Database**
 
-</td>
-</tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br>
+**Tools & Design**
 
-## `> git log --stats`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-<div align="center">
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nullbhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullbhaskar&layout=compact&theme=tokyonight&hide_border=true" />
+## 📌 Featured Project
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nullbhaskar&theme=tokyonight&hide_border=true" />
+**E-commerce Mobile App**
+A mobile shopping app built with React Native and Firebase — developed during my internship.
+**Stack:** React Native, Firebase
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=nullbhaskar&theme=tokyo-night&hide_border=true" />
+> ✏️ *Add more projects here as you build/publish them.*
 
-</div>
+---
 
-<br>
+## 📊 GitHub Stats
 
-## `> connect --with-me`
+![](https://github-readme-stats.vercel.app/api?username=nullbhaskar&show_icons=true&theme=default)
 
-<p align="center">
-<a href="mailto:bhaskardaspatna@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+---
 
-<div align="center">
+## 📫 Connect With Me
 
-*"Turning ☕ into code and 🎨 into posters."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhaskar--das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-das-101612320/)
+[![X](https://img.shields.io/badge/X-dasbhaskar__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dasbhaskar_)
+[![Instagram](https://img.shields.io/badge/Instagram-add__later-E4405F?style=flat-square&logo=instagram&logoColor=white)]( )
+[![Gmail](https://img.shields.io/badge/Gmail-bhaskardaspatna-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhaskardaspatna@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,100:0e75b6&height=100&section=footer"/>
+---
 
-</div>
-
-<!--
-**nullbhaskar/nullbhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning, building, designing — one project at a time.**
