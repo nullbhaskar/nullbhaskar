@@ -30,6 +30,7 @@ I'm a Computer Science (BCA) student with a growing focus on mobile app developm
 | **Current Project** | E-commerce mobile app (React Native + Firebase) |
 | **Currently Learning** | Mobile Application Development |
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -60,19 +61,16 @@ I'm a Computer Science (BCA) student with a growing focus on mobile app developm
 
 ---
 
-## 📌 Featured Project
+## Featured Projects
 
-**E-commerce Mobile App(building)**
-A mobile shopping app built with React Native and Firebase — developed during my internship.
-**Stack:** React Native, Firebase
-
-> 
+### AirX *(Building)*
+Creating a touchless desktop interaction platform for Windows that lets you control your computer purely through hand gestures and voice command.
 
 ---
 
-## 📊 GitHub Stats
+### EasyBuy
+A full-stack mobile e-commerce and quick commerce application built with React Native (Expo SDK 54) and Firebase. Engineered with a catalog-grounded RAG AI shopping assistant chat, dynamic regional catalog partitioning across 36 Indian states, an interactive geospatial map for real-time delivery pinning, and a full-featured on-device mobile admin panel for live stock and order management.
 
-![](https://github-readme-stats.vercel.app/api?username=nullbhaskar&show_icons=true&theme=default)
 
 ---
 
